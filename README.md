@@ -14,3 +14,4 @@ A simple, interactive Bash script to manage daily tasks directly from the termin
 ![Viewing a task](option1.png)
 ![Deleting a task](option3.png)
 
+#The End
